@@ -5,7 +5,8 @@
     "license": "MIT",
     "author": "Ubirajara Neves",
     "scripts": {
-        "dev": "nodemon ./src/index.js"
+        "dev": "nodemon ./src/index.js",
+        "run": "node ./src/index.js"
     },
     "dependencies": {
         "bcrypt": "^5.1.0",
